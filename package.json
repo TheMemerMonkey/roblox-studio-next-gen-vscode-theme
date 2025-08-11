@@ -1,8 +1,10 @@
 {
-  "name": "roblox-studio-refresh",
-  "displayName": "roblox-studio-refresh",
+  "publisher": "thememermonkey",
+  "name": "roblox-studio-next-gen-theme",
+  "displayName": "Roblox Studio Next Gen Theme",
   "description": "A theme that aims to match Roblox's new studio theme",
-  "version": "0.0.1",
+  "repository": "https://github.com/TheMemerMonkey/roblox-studio-next-gen-vscode-theme",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.103.0"
   },
@@ -12,9 +14,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Roblox Studio Refresh",
+        "label": "Roblox Studio Next Gen",
         "uiTheme": "vs-dark",
-        "path": "./themes/Roblox Studio Refresh-color-theme.json"
+        "path": "./themes/roblox-studio-next-gen-color-theme.json"
       }
     ]
   }
