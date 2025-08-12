@@ -222,6 +222,16 @@
 			}
 		},
 		{
+			"name": "export, type", //This isnt in the studio settings
+			"scope": [
+				"storage.modifier.visibility",
+				"storage.type"
+			],
+			"settings": {
+				"foreground": "#EB7973"
+			}
+		},
+		{
 			"name": "Function name", //Overlaps with Local Method
 			"scope": [
 				"entity.name.function"
