@@ -5,7 +5,7 @@
   "icon": "images/icon.png",
   "description": "A theme that aims to match Roblox's new studio theme",
   "repository": "https://github.com/TheMemerMonkey/roblox-studio-next-gen-vscode-theme",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "engines": {
     "vscode": "^1.103.0"
   },
